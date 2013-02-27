@@ -3,5 +3,6 @@
 <remote  name="origin" fetch="https://github.com/" revision="master" />
 <default revision="master" remote="origin" sync-j="4" />
 <project path="git-sources/manifest" name="vincentyen/manifest.git" />
+<project path="git-sources/document" name="vincentyen/document.git" />
 </manifest>
 
